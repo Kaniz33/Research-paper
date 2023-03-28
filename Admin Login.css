@@ -1,0 +1,59 @@
+.registration{
+    
+  margin: auto;
+    width: 500px;
+    padding:70px;
+    padding-bottom: 100px;
+    background-color: bisque;
+   box-sizing: border-box;
+   
+   height: 580px;
+ 
+  
+
+   
+}
+.registration h1{
+    text-align: center;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline block;
+    border: none;
+    background-color: aliceblue;
+  }
+  .registerbtn {
+    
+   background-color: black;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+   
+  }
+  .registerbtn:hover{
+   background-color: brown;
+  }
+  
+
+.menubar a.log{
+    background-color: gray;
+  }
+  .signin{
+    text-align: center;
+
+  }
+  .signin a:hover{
+    font-size: larger;
+  }
+  embed{
+    border: 2px solid black;
+    margin-top: 30px;
+  }
+  .div1{
+    margin-left: 170px;
+  }
